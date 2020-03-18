@@ -11,6 +11,6 @@ class Copil
 
     public int calculIQ
     {
-        return 100;
+        return 21;
     }
 }
